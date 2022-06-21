@@ -10,9 +10,11 @@ Oi, eu sou o usuario **jeisongilmarduda13** .
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
- - Scratch .
+ - Scratch
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+*Este sou eu na vida real* :
 
 
 *Como pode me achar? Procure por Jeison Gilmar Duda nas redes sociais* .
