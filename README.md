@@ -10,7 +10,7 @@
 
 :fountain_pen: Mas no momento estou aprendendo os seguintes curssos :
 
--no curso de [pensamento cumputacional](https://pt.wikipedia.org/wiki/Pensamento_computacional)
+-no curso de [pensamento cumputacional](https://pt.wikipedia.org/wiki/Pensamento_computacional) .
  
 :closed_book: - Java Script .
 
