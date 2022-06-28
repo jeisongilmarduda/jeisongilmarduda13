@@ -1,17 +1,25 @@
 # Conheça quem sou .
 
-Oi, eu sou o usuario **jeisongilmarduda13** . 
+:slightly_smiling_face:  Oi, eu sou o usuario **jeisongilmarduda13** . 
 
-*Quero aprender* .
+:seedling: *Tenho 15 anos,e estou no primeiro ano do ensino médio* .
 
- Mas no momento estou aprendendo os seguintes curssos :
+:brazil: *Moro atualmente no Brasil* .
+
+:book:*Tenho disposição em aprender* .
+
+:fountain_pen: Mas no momento estou aprendendo os seguintes curssos :
+
+-no curso de [pensamento cumputacional](https://pt.wikipedia.org/wiki/Pensamento_computacional)
  
- - Java Script .
+:closed_book: - Java Script .
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
- - Scratch
+:orange_book: - Scratch
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
-*Como pode me achar? Procure por Jeison Gilmar Duda nas redes sociais* .
+:telephone_receiver: *Como pode me achar* ?
+
+:pushpin: *Procure por Jeison Gilmar Duda nas redes sociais* .
